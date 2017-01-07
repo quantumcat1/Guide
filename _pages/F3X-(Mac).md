@@ -14,7 +14,9 @@ This page is for Mac users only. If you are not on Mac, check out the [H2testw (
 
 #### What you need
 
+<div id="files" markdown="1">
 * The latest release of [F3X](https://github.com/insidegui/F3X/releases)
+</div>
 
 #### Instructions
 

@@ -11,10 +11,10 @@ If you have already hacked your 3DS before and have a EmuNAND based CFW setup, t
 
 #### What you need
 
-{% include opendiv.html %}
+<div id="files" markdown="1">
 * DS flashcard that works on your 3DS version
 * The latest release of [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP/releases/)
-{% include closediv.html %}
+</div>
 
 #### Instructions
 

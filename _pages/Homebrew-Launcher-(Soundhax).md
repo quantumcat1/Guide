@@ -11,9 +11,11 @@ SoundHax is compatible with versions 9.0.0 through 11.2.0 in the EUR, JPN, KOR, 
 
 #### What you need
 
+<div id="files" markdown="1">
 + The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 + The latest release of [SoundHax](http://soundhax.com/) *(for your device and region)*
 + The [otherapp payload](https://smealum.github.io/3ds/#otherapp) *(for your version and region)*
+</div>
 
 #### Instructions
 

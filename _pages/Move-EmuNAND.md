@@ -14,8 +14,10 @@ You will LOSE your GBA VC and DSiWare saves!
 
 #### What you need
 
+<div id="files" markdown="1">
 * An existing EmuNAND
 * The latest release of [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
+</div>
 
 #### Instructions
 

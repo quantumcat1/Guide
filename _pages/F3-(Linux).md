@@ -14,7 +14,9 @@ This page is for Linux users only. If you are not on Linux, check out the [H2tes
 
 #### What you need
 
+<div id="files" markdown="1">
 * The latest version of [F3](https://github.com/AltraMayor/f3/archive/v6.0.zip)
+</div>
 
 #### Instructions
 

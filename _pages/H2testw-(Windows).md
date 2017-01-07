@@ -14,7 +14,9 @@ This page is for Windows users only. If you are not on windows, check out the [F
 
 #### What you need
 
+<div id="files" markdown="1">
 * The latest version of [h2testw](http://www.heise.de/ct/Redaktion/bo/downloads/h2testw_1.4.zip)
+</div>
 
 #### Instructions
 
