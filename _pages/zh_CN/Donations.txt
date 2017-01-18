@@ -1,0 +1,16 @@
+---
+title: "捐款" #
+lang: zh_CN
+permalink: /donations.html
+layout: single-no-ads
+---
+
+## 如果你喜欢这个教程，你可以打赏。
+{: .text-center}
+{: .notice--success}
+
+[![Bitcoin]({{ base_path }}/images/donate_64.png)](https://www.coinbase.com/plailect){: .align-center}
+{: .text-center}
+
+[![Paypal]({{ base_path }}/images/paypal.jpg)](https://www.paypal.me/plailect/15){: .align-center}
+{: .text-center}

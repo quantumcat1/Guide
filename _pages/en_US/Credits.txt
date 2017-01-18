@@ -1,11 +1,13 @@
 ---
-title: "Credits"
+title: "Credits" #
+lang: en
 permalink: /credits.html
-lang: en_US
-ref: credits
 ---
 
 **Special thanks to all of [#Cakey on Freenode](http://webchat.freenode.net/?channels=%23Cakey) for being awesome!**
+{: .notice--primary}
+
+**Special thanks to all of [the translators](https://translate.3ds.guide/) for being awesome!**
 {: .notice--primary}
 
 If I forgot you here, contact me and I'll add your name.
@@ -38,6 +40,7 @@ If I forgot you here, contact me and I'll add your name.
 + ihaveamac
 + IngeniousDefault
 + J-D-K
++ jkcgs
 + LordBass
 + MassExplosion123
 + mid-kid

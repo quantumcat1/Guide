@@ -1,0 +1,28 @@
+---
+title: "Decrypt9（自制程序启动器）" #
+lang: zh_CN
+permalink: /decrypt9-(homebrew-launcher).html
+---
+
+#### 你需要
+
+* 最新版本的 [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP/releases/latest/)
+* 最新版本的 [safehax](https://github.com/TiniVi/safehax/releases/latest)
+* 最新版本的[fasthax](https://github.com/nedwill/fasthax/releases/latest)
+
+#### 操作指南
+
+1. 在SD卡的根目录下创建一个名为'files9'的文件夹
+2. 将 `safehax.3dsx` 复制到SD卡上的 `/3ds/` 文件夹
+3. 将 `fasthax.3dsx` 复制到SD卡上的 `/3ds/` 文件夹
+4. 将Decrypt9WIP `.zip` 里的`Decrypt9WIP.bin` 复制到SD卡的根目录下，并重命名为 `safehaxpayload.bin`
+5. 将SD卡插回3DS
+6. 进入Homebrew Launcher
+7. 运行 fasthax
+8. 运行完毕后，按 (start) 键退回Homebrew Launcher
+  + 这一步的成功率不是100%，有可能需要反复尝试
+9. 运行 safehax
+10. 如果漏洞利用成功，将会自动进入Decrypt9
+
+继续下一步 [2.1.0 ctrtransfer](2.1.0-ctrtransfer)    
+{: .notice--primary}

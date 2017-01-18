@@ -1,0 +1,34 @@
+---
+title: "自制程序启动器（声音破解）" #
+lang: zh_CN
+permalink: /homebrew-launcher-(soundhax).html
+---
+
+Homebrew Launcher (HBL) 有许多不同的入口和启动方式。
+{: .notice}
+
+SoundHax 兼容欧、日、韩和美9.0.0到11.2.0所有版本
+{: .notice--info}
+
+#### 你需要
+
++ The Homebrew [开始包](http://smealum.github.io/ninjhax2/starter.zip)
++ 最新版本的 [SoundHax](http://soundhax.com/) *(根据你的3DS的区域和版本下载)*
++ The [otherapp payload](https://smealum.github.io/3ds/#otherapp) *(根据你的3DS的区域和版本下载)*
+ 
+Request Context
+
+#### 操作指南
+
+1. 解压缩` starter.zip `，将` starter `文件夹下的所有文件拷贝到你SD卡的根目录中
+2. 将 SoundHax 的 `.m4a` 文件复制到SD卡的根目录下
+3. 将下载的 otherapp payload 复制到SD卡的根目录下，并重命名为 `otherapp.bin`
+4. 将SD卡插回3DS
+5. 运行3DS的声音软件
+6. 跳过所有的小鸟提示，正常关闭声音软件，然后重新打开声音软件
+  + 如果没有关闭声音软件，直接运行SoundHax，会造成每次打开声音软件都会有小鸟提示
+7. 播放SoundHax的 `.m4a` 文件
+8. 现在应该自动进入Homebrew Launcher
+
+继续下一步 [Decrypt9 (Homebrew Launcher)](decrypt9-(homebrew-launcher))
+{: .notice--primary}

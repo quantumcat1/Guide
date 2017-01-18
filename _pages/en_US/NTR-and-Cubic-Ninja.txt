@@ -1,8 +1,7 @@
 ---
-title: "NTR and Cubic Ninja"
+title: "NTR and Cubic Ninja" #
+lang: en
 permalink: /ntr-and-cubic-ninja.html
-lang: en_US
-ref: ntr-and-cubic-ninja
 ---
 
 **NTR Cubic Ninja will work for JPN New 3DS ONLY!**
@@ -38,7 +37,7 @@ ref: ntr-and-cubic-ninja
 8. Move `node.exe` and `CdnCiaUnpack.js` back to `C:\wamp\www\`
 9. Copy `GetSystemUpdate.partial.xml` to `C:\wamp\www\` (so that a copy of it exists in both `C:\wamp\www\updates` and `C:\wamp\www\`)
 10. Click the WAMP icon in your system tray, then click "Put Online"
-11. Use the command `ipconfig` in CMD to get your computer's IPv4 Address, you will need it soon
+11. Use the command `ipconfig /all` in CMD to get your computer's IPv4 Address, you will need it soon
 12. Copy `ntr.bin` to the root of your SD card
 13. Create a folder named `files9` on the root of your SD card if it does not already exist
 14. Copy _the contents of_ the `starter` folder in `starter.zip` to the root of your SD card
@@ -47,20 +46,20 @@ ref: ntr-and-cubic-ninja
 
 ##### Section II - Updating
 
-1. Boot your 3DS into recovery mode by holding L+R+A+UP while powering on
+1. Boot your 3DS into recovery mode by holding (L)+(R)+(A)+(UP) while powering on
 2. Decline the update and reboot
-3. Open Cubic Ninja (if it already has NinjHax installed, hold L+R+X+Y to reset it)
+3. Open Cubic Ninja (if it already has NinjHax installed, hold (L)+(R)+(X)+(Y) to reset it)
 4. Select "Create", then "QR Code", then "Scan QR Code"
 5. Scan the QR code in the NTR CFW `.zip` for your region
 6. On the home menu, press (Y) and (X) at the same time to open NTR's menu
 7. Enable the debugger and close the menu
 8. Use your router's web page to get your 3DS's IP address (google it if you don't know how, all routers are different)
 9. Run NTR Debugger on your computer
-10. Enter the following commands (replace 192.168.1.100 with your 3DS's IP address and 192.168.1.200 with your computer's IP address)    
-    + `connect("192.168.1.100", 8000)`
-    + `write(0x15E424, tuple(map(ord, "http://192.168.1.200/update.php\0")), pid=0x25)`
-    + `write(0x15E0EC, tuple(map(ord, "http://192.168.1.200/update.php\0")), pid=0x25)`
-    + `write(0x15E463, tuple(map(ord, "http://192.168.1.200/update.php\0")), pid=0x25)`
+10. Enter the following commands (replace XXX.XXX.XXX.XXX with your 3DS's IP address and YYY.YYY.YYY.YYY with your computer's IP address)    
+    + `connect("XXX.XXX.XXX.XXX", 8000)`
+    + `write(0x15E424, tuple(map(ord, "http://YYY.YYY.YYY.YYY/update.php\0")), pid=0x25)`
+    + `write(0x15E0EC, tuple(map(ord, "http://YYY.YYY.YYY.YYY/update.php\0")), pid=0x25)`
+    + `write(0x15E463, tuple(map(ord, "http://YYY.YYY.YYY.YYY/update.php\0")), pid=0x25)`
 11. Update your 3DS by going to System Settings, then "Other Settings", then going all the way to the right and using "System Update"
 
 ___
