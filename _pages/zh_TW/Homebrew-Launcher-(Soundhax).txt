@@ -26,7 +26,9 @@ SoundHax 相容於系統版本 9.0.0 至 11.2.0 的歐、日、韓及美區系�
 6. 跳過所有鳥的提示，然後以正常方式重啟播放程式
   + 如果直接啟動 SoundHax，會讓這些提示每次都跳出來，除非你先跳過提示，然後再正常重新啟動播放程式
 7. 播放 SoundHax `.m4a`
-8. 你的主機現在應該就會進入到自製軟體啟動程式 (Homebrew Menu) 內了
+  + 可能需要嘗試多次
+  + 如果當機的話，按住電源紐強制重啟你的裝置在試一次即可
+8. 你的主機應該就會啟動 Homebrew Launcher 了
 
 繼續至 [Decrypt9 (Homebrew Launcher)](decrypt9-(homebrew-launcher))
 {: .notice--primary}

@@ -26,7 +26,9 @@ SoundHax jest kompatybilny z wersjami od 9.0.0 do 11.2.0 włącznie, z regionów
 6. Przejdź przez wszystkie wskazówki od ptaszka, a następnie zamknij aplikację i otwórz ją ponownie
   + Natychmiastowe uruchomienie SoundHax'a spowoduje, że te wskazówki będą pojawiać się za każdym razem gdy uruchomisz Nintendo 3DS Sound
 7. Odtwórz plik `.m4a` SoundHax'a
-8. Twoja konsola powinna teraz załadować menu homebrew
+  + To może wymagać kilku prób
+  + Jeśli konsola się zawiesi, przytrzymaj przycisk power aby ją wyłączyć i spróbuj ponownie
+8. Konsola powinna załadować Homebrew Launcher
 
 Kontynuuj do [Decrypt9 (Homebrew Launcher)](decrypt9-(homebrew-launcher))
 {: .notice--primary}

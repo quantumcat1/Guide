@@ -1,7 +1,7 @@
 ---
 title: "Homebrew Launcher (SoundHax)" #
-lang: en
-permalink: /homebrew-launcher-(soundhax).html
+lang: ru
+permalink: /ru_RU/homebrew-launcher-(soundhax).html
 ---
 
 Homebrew Launcher имеет множество точек входа, или методов запуска.
@@ -13,7 +13,7 @@ SoundHax совместим с версиями прошивки от 9.0.0 до
 #### Что понадобится
 
 + Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
-+ Последний релиз [SoundHax](http://soundhax.com/) *(для вашего устройства и региона)*
++ Последняя версия [SoundHax](http://soundhax.com/) *(для вашего устройства и региона)*
 + [otherapp payload](https://smealum.github.io/3ds/#otherapp) *(для вашей версии и региона)*
 
 #### Инструкция
@@ -26,7 +26,9 @@ SoundHax совместим с версиями прошивки от 9.0.0 до
 6. Пролистайте все сообщения говорящего попугая, закройте приложение и запустите снова
   + Если запустить Soundhax сразу, без закрытия, то птичка будет появляться при каждом запуске программы, до тех пор, пока вы не выполните этот пункт
 7. Начните воспроизведение SoundHax `.m4a`
-8. Консоль должна загрузиться в homebrew меню
+  + Может потребоваться несколько попыток
+  + При зависании отключите питание консоли, зажав кнопку питания, и попробуйте снова
+8. Консоль должна загрузиться в Homebrew Launcher
 
-Continue to [Decrypt9 (Homebrew Launcher)](decrypt9-(homebrew-launcher))
+Следующий шаг: [Decrypt9 (Homebrew Launcher)](decrypt9-(homebrew-launcher))
 {: .notice--primary}

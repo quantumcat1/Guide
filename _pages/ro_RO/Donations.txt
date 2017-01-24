@@ -1,7 +1,7 @@
 ---
-title: "Donations" #
-lang: en
-permalink: /donations.html
+title: "Donaţii" #
+lang: ro
+permalink: /ro_RO/donations.html
 layout: single-no-ads
 ---
 
