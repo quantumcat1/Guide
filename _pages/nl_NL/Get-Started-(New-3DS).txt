@@ -24,9 +24,6 @@ Voor alle versies kan je ook een [Cart Update](cart-update) doen naar een hogere
 {: .notice--warning}
 {:/comment}
 
-Voor alle versies kan je ook de Systeeminstellingen gebruiken om up te daten naar de laatste versie, om dan de instructies daarvoor te volgen.
-{: .notice--warning}
-
 {::comment}
 Als je hebt geupdatet met een game cart die de versie 9.9.0 of hoger bevat *(wat betekent dat je een versie op 9.90 hebt of hoger, maar dat je browser op -25 of lager is, zoals 10.2.0-24)*, dan is je browser verwijderd en moet je de "Geen Browser" kolom gebruiken.
 {: .notice--warning}
@@ -54,6 +51,11 @@ De versie van je apparaat kan je vinden rechtsonder op het bovenste scherm in de
       <td style="text-align: center">9.0.0</td>
       <td style="text-align: center">11.2.0</td>
       <td style="text-align: center"><a href="homebrew-launcher-(soundhax)">Homebrew Launcher (SoundHax)</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">11.3.0</td>
+      <td style="text-align: center">11.3.0</td>
+      <td style="text-align: center">-</td>
     </tr>
   </tbody>
 </table>

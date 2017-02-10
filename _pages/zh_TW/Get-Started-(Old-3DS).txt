@@ -20,9 +20,6 @@ permalink: /zh_TW/get-started-(old-3ds).html
 任一版本都可以透過 [卡帶更新](cart-update) 中所提到的步驟以升級至更新的版本。
 {: .notice--warning}
 
-任一版本都可以透過「系統設置（System Settings）」中的系統更新以升級至最新版本，並遵循其頁面中的指示。
-{: .notice--warning}
-
 如果您的卡帶含有 9.9.0 或以上的系統版本，您的瀏覽器會被刪除，而您將得遵守「無瀏覽器」的那列使用。*（意思就是說，您的版本是 9.9.0 或以上版本，但您的瀏覽器版本是 -25 或更低版的話，像是 10.2.0-24）*
 {: .notice--warning}
 
@@ -42,18 +39,18 @@ permalink: /zh_TW/get-started-(old-3ds).html
     <tr>
       <td style="text-align: center">1.0.0</td>
       <td style="text-align: center">1.1.0</td>
-      <td style="text-align: center" colspan="2"><a href="cart-update">卡帶更新</a></td>
+      <td style="text-align: center" colspan="2">-</td>
     </tr>
     <tr>
       <td style="text-align: center">2.1.0</td>
       <td style="text-align: center">2.1.0</td>
-      <td style="text-align: center"><a href="cart-update">卡帶更新</a></td>
+      <td style="text-align: center">-</td>
       <td style="text-align: center"><a href="installing-arm9loaderhax">安裝 arm9loaderhax</a></td>
     </tr>
     <tr>
       <td style="text-align: center">2.2.0</td>
       <td style="text-align: center">3.1.0</td>
-      <td style="text-align: center" colspan="2"><a href="cart-update">卡帶更新</a></td>
+      <td style="text-align: center" colspan="2">-</td>
     </tr>
     <tr>
       <td style="text-align: center">4.0.0</td>
@@ -64,7 +61,7 @@ permalink: /zh_TW/get-started-(old-3ds).html
     <tr>
       <td style="text-align: center">5.0.0</td>
       <td style="text-align: center">5.1.0</td>
-      <td style="text-align: center"><a href="cart-update">卡帶更新</a></td>
+      <td style="text-align: center">-</td>
       <td style="text-align: center"><a href="decrypt9-(browser)">Decrypt9 (透過網頁瀏覽器)</a></td>
     </tr>
     <tr>
@@ -76,13 +73,18 @@ permalink: /zh_TW/get-started-(old-3ds).html
     <tr>
       <td style="text-align: center">7.0.0</td>
       <td style="text-align: center">8.1.0</td>
-      <td style="text-align: center"><a href="cart-update">卡帶更新</a></td>
+      <td style="text-align: center">-</td>
       <td style="text-align: center"><a href="decrypt9-(browser)">Decrypt9 (透過網頁瀏覽器)</a></td>
     </tr>
     <tr>
       <td style="text-align: center">9.0.0</td>
       <td style="text-align: center">11.2.0</td>
       <td style="text-align: center" colspan="2"><a href="homebrew-launcher-(soundhax)">Homebrew Launcher (SoundHax)</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">11.3.0</td>
+      <td style="text-align: center">11.3.0</td>
+      <td style="text-align: center" colspan="2">-</td>
     </tr>
   </tbody>
 </table>

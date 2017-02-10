@@ -6,11 +6,11 @@ header:
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   cta_label: "Get Started" #
-  cta_url: "get-started" #
+  cta_url: "/en_PT/get-started" #
   caption:
 excerpt: "A complete guide to 3DS custom firmware, <br /> from stock to arm9loaderhax.<br />" #
 lang: en
-permalink: /index.html
+permalink: /en_PT/index.html
 ---
 
 {% capture notice-home %}
@@ -32,19 +32,19 @@ If you have a developer ("PANDA" or "SNAKE") console, check out [devGuide](https
 **Read all of the introductory pages before proceeding.**
 {: .notice--warning}
 
-## What is Homebrew?
+## What be Homebrew?
 
 [**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) usually refers to software that is not authorized by Nintendo. It allows you to run homebrew games, tools like save editing and backup, and emulators for various older systems.
 
-In most cases, running homebrew on your console is 100% free using just the Nintendo 3DS Sound app. There are also various other exploits in commercial games and the browser to get homebrew running.
+In most cases, running homebrew on your console is 100% free using [just the Nintendo 3DS Sound app](homebrew-launcher-(soundhax)) (if you are on >=11.3.0, you will be unable to proceed past homebrew). There are also various other exploits in commercial games and the browser to get homebrew running.
 
-## What is Custom Firmware?
+## What be Custom Firmware?
 
-**Custom Firmware** ("CFW") enables you to use more advanced hacks that userland homebrew can't easily do. For instance, signature patches let you install unsigned titles that appear right on your HOME Menu.
+**Custom Firmware** ("CFW") enables ye to use more advanced hacks that userland homebrew can't easily do. For instance, signature patches let you install unsigned titles that appear right on your HOME Menu.
 
-CFW can be easily set up on any console that is on 11.2.0 (latest) or lower.
+CFW can be easily set up on any console that is on 11.2.0 or lower.
 
-## What does this guide install?
+## What does 'tis guide install?
 
 This guide has the end goal of taking a completely unmodified 3DS from stock
 firmware to arm9loaderhax powered Custom Firmware. On some versions, it utilizes homebrew as a stepping off point, but Custom Firmware is still the goal.
@@ -53,7 +53,7 @@ Arm9loaderhax is the newest and best method of launching Custom Firmware that gi
 
 The benefits of arm9loaderhax over other Custom Firmware launch methods are numerous, and as such it is recommended to use this guide over any other that relies on outdated software (such as menuhax or rxTools).
 
-## What can I do with Custom Firmware?
+## What can I do wit' Custom Firmware?
 
 + Play all game cards and eShop games, regardless of region
 + Customize your HOME Menu with user-created [themes](https://3dsthem.es/) and [badges](https://badges.3dsthem.es/)
