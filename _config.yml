@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guide"
+title                    : "3DS Guide"
 title_separator          : "-"
 name                     : "Plailect"
 description              : "Full arm9loaderhax CFW Guide"
@@ -71,7 +71,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-86465881-1"
 
@@ -141,33 +141,35 @@ exclude: [
   _pages/ca_ES,
   _pages/cs_CZ,
   _pages/da_DK,
-  # _pages/de_DE,
+  _pages/de_DE,
   _pages/el_GR,
   _pages/en_PT,
   # _pages/en_US,
   _pages/es_EM,
   # _pages/es_ES,
-  _pages/fi_FI,
+  # _pages/fi_FI,
   # _pages/fr_FR,
-  _pages/he_IL,
+  # _pages/he_IL,
   _pages/hu_HU,
+  _pages/id_ID,
   # _pages/it_IT,
-  # _pages/ja_JP,
+  _pages/ja_JP,
   _pages/ko_KR,
-  # _pages/ms_MY,
-  # _pages/no_NO,
-  _pages/nl_NL,
-  # _pages/pl_PL,
+  _pages/ms_MY,
+  _pages/no_NO,
+  # _pages/nl_NL,
+  _pages/pl_PL,
   # _pages/pt_BR,
   _pages/pt_PT,
   _pages/ro_RO,
   # _pages/ru_RU,
   _pages/sr_SP,
   _pages/sv_SE,
-  # _pages/tr_TR,
+  _pages/th_TH,
+  _pages/tr_TR,
   _pages/uk_UA,
   _pages/vi_VN,
-  # _pages/zh_CN,
+  _pages/zh_CN,
   # _pages/zh_TW,
 ]
 

@@ -1,36 +1,49 @@
 ---
-title: "Homebrew Launcher (SoundHax)" #
+title: "Homebrew Launcher (Soundhax)" #
 lang: nl
 permalink: /nl_NL/homebrew-launcher-(soundhax).html
 ---
 
-De Homebrew Launcher heeft veel verschillende entrypoints of lanceringsmethoden.
+De Homebrew Launcher heeft veel verschillende entrypoints (ingangspunten) of lanceringsmethoden.
 {: .notice}
 
-SoundHax is compatibel met versies 9.0.0 tot en met 11.2.0 in regio's EUR, JPN, KOR en USA.
+Soundhax is compatibel met firmwareversies 9.0.0 tot en met 11.3.0 in regio's EUR, JPN, KOR en USA.
 {: .notice--info}
+
+Zorg ervoor dat Draadloze Communicatie is ingeschakeld, aangezien udsploit (gebruikt in de volgende pagina) een actieve draadloze module nodig heeft om te functioneren, en sommige consoles (New 3DS en 2DS) kunnen Draadloze Communicatie niet aanzetten vanuit de Homebrew Launcher. Draadloze Communicatie hoeft alleen maar aan te staan; Het hoeft niet aan een netwerk verbonden te zijn.
+{: .notice--info}
+
+Cartridge Updates zullen alleen systeem functies updaten zoals: Systeem Instellingen, Home Menu, etc. Cartridge Updates zullen geen update leveren voor Nintendo 3DS Sound en netwerk functies zoals de Gegevensoverdracht, de Internet Browser, StreetPass Mii Plaza of de eShop.
+{: .notice--info}
+
+Dit betekent dat een cartridge update vanaf een versie <9.0.0 zorgt dat [Soundhax](homebrew-launcher-(soundhax)) niet meer zal werken! Je zal een [alternatieve methode](homebrew-launcher-(alternatives)) nodig hebben om de Homebrew Launcher te openen!
+{: .notice--warning}
+
 
 #### Benodigdheden
 
 + De Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
-+ De nieuwste versie van [SoundHax](http://soundhax.com/) *(voor jouw 3DS model en regio)*
++ De meest recente versie van [Soundhax](http://soundhax.com/) *(voor jouw 3DS model en regio)*
 + De [otherapp payload](https://smealum.github.io/3ds/#otherapp) *(voor jouw 3DS model en regio)*
 
 #### Instructies
 
-1. Kopieer _de inhoud_ van de 'starter'-map in 'starter.zip' naar de root van je SD-Kaart
-2. Kopieer de SoundHax `.m4a` naar de root van je SD-kaart
-3. Kopieer de otherapp payload naar de root van je SD kaart en hernoem deze naar`otherapp.bin`
-4. Stop je SD-Kaart terug in je 3DS
-5. Start Nintendo 3DS Sound
-6. Doorloop alle tips die de vogel je geeft, sluit en open de app daarna opnieuw
-  + SoundHax onmiddellijk opstarten zou ervoor zorgen dat deze tips telkens opnieuw bij het opstarten van de Nintendo 3DS Sound app blijven voorkomen, tot de stappen afgerond zijn
-7. Go to `/SDCARD`, then play "<3 nedwill 2016"
-  + This may take many tries
-  + If it freezes, just force the console to power off by holding the power button, then try again
-8. Your console should load the Homebrew Launcher
+1. Schakel je 3DS uit
+1. Plaats je SD kaart in je computer
+1. Kopieer _de inhoud van_ de `starter` map in `starter.zip` naar de hoofdmap van je SD kaart
+1. Kopieer de Soundhax `.m4a` naar de hoofdmap van je SD kaart
+1. Kopieer de otherapp payload naar de hoofdmap van je SD kaart en hernoem deze naar `otherapp.bin`
+1. Stop je SD kaart terug in je 3DS
+1. Zet je 3DS aan
+1. Start Nintendo 3DS Sound
+1. Doorloop alle tips die de vogel je geeft, sluit de app dan normaal af en open de app weer
+  + Soundhax onmiddellijk opstarten zou ervoor zorgen dat deze tips telkens opnieuw bij het opstarten van de Nintendo 3DS Sound app blijven voorkomen
+1. Ga naar `/SDCARD`, en speel dan "<3 nedwill 2016" af
+  + Dit kan meerdere pogingen nodig hebben
+  + Als het vastloopt, zet het apparaat dan gewoon uit door de power knop ingedrukt te houden, probeer het daarna opnieuw
+1. Nu zou je console de Homebrew Launcher moeten openen
 
 ___
 
-Ga verder naar [Decrypt9 (Homebrew Launcher)](decrypt9-(homebrew-launcher))
+Ga verder naar [SafeCTRTransfer (Homebrew Launcher)](safectrtransfer-(homebrew-launcher))
 {: .notice--primary}

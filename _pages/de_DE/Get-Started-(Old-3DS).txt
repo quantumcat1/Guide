@@ -17,7 +17,7 @@ Im Falle der Version "5.0.0-0U" zum Beispiel würdest du die Spalte "Kein Browse
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
-Für alle Versionen kannst du auch ein [Kartenupdate](cart-update) durchführen, um auf eine höhere Version in der gleichen Reihe zu kommen und deren Anweisung zu folgen.
+Es besteht auf jeder Version die Möglichkeit ein [Kartenupdate](cart-update) auf eine neuere Version in der gleichen Spalte durchzuführen, und dessen Anleitung zu folgen. Dafür musst du jedoch eine [alternative Methode](homebrew-launcher-(alternatives)) um in den Homebrew-Launcher zu gelangen verwenden, weil Soundhax nicht funktionieren wird.
 {: .notice--warning}
 
 Falls du mit einem Spielmodul geupdatet hast, das die Version 9.9.0 oder höher enthält *(das heißt, du hast Version 9.9.0 oder höher, aber dein Browser ist auf -25 oder darunter, z. B. 10.2.0-24)*, wurde dein Browser entfernt. Benutze in diesem Fall die Spalte "Kein Browser".
@@ -55,35 +55,35 @@ Die Version deines 3DS findest du rechts unten auf dem oberen Bildschirm in den 
     <tr>
       <td style="text-align: center">4.0.0</td>
       <td style="text-align: center">4.5.0</td>
-      <td style="text-align: center"><a href="decrypt9-(mset)">Decrypt9 (MSET)</a></td>
-      <td style="text-align: center"><a href="decrypt9-(browser)">Decrypt9 (Browser)</a></td>
+      <td style="text-align: center"><a href="safectrtransfer-(mset)">SafeCTRTransfer (MSET)</a></td>
+      <td style="text-align: center"><a href="safectrtransfer-(browser)">SafeCTRTransfer (Browser)</a></td>
     </tr>
     <tr>
       <td style="text-align: center">5.0.0</td>
       <td style="text-align: center">5.1.0</td>
       <td style="text-align: center">-</td>
-      <td style="text-align: center"><a href="decrypt9-(browser)">Decrypt9 (Browser)</a></td>
+      <td style="text-align: center"><a href="safectrtransfer-(browser)">SafeCTRTransfer (Browser)</a></td>
     </tr>
     <tr>
       <td style="text-align: center">6.0.0</td>
       <td style="text-align: center">6.3.0</td>
-      <td style="text-align: center"><a href="decrypt9-(mset)">Decrypt9 (MSET)</a></td>
-      <td style="text-align: center"><a href="decrypt9-(browser)">Decrypt9 (Browser)</a></td>
+      <td style="text-align: center"><a href="safectrtransfer-(mset)">SafeCTRTransfer (MSET)</a></td>
+      <td style="text-align: center"><a href="safectrtransfer-(browser)">SafeCTRTransfer (Browser)</a></td>
     </tr>
     <tr>
       <td style="text-align: center">7.0.0</td>
       <td style="text-align: center">8.1.0</td>
       <td style="text-align: center">-</td>
-      <td style="text-align: center"><a href="decrypt9-(browser)">Decrypt9 (Browser)</a></td>
+      <td style="text-align: center"><a href="safectrtransfer-(browser)">SafeCTRTransfer (Browser)</a></td>
     </tr>
     <tr>
       <td style="text-align: center">9.0.0</td>
-      <td style="text-align: center">11.2.0</td>
-      <td style="text-align: center" colspan="2"><a href="homebrew-launcher-(soundhax)">Homebrew Launcher (SoundHax)</a></td>
+      <td style="text-align: center">11.3.0</td>
+      <td style="text-align: center" colspan="2"><a href="homebrew-launcher-(soundhax)">Homebrew Launcher (Soundhax)</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">11.3.0</td>
-      <td style="text-align: center">11.3.0</td>
+      <td style="text-align: center">11.4.0</td>
+      <td style="text-align: center">11.4.0</td>
       <td style="text-align: center" colspan="2">-</td>
     </tr>
   </tbody>
